@@ -33,3 +33,34 @@
 
 
 Запись лекций: https://www.youtube.com/playlist?list=PLxEQA5k0LBt6PAORtrBl9EzXeY8fguS2M
+
+
+
+
+
+
+
+
+
+
+Вопросы к зачету / зкзамену
+
+ 1 Document embeddings: PV-DBOW, PV-DM, DV-ngram models.
+ 2 Document embeddings: Cosine DV-ngram. Combining document embeddings and bag-of-ngrams.
+ 3 Regularization of recurrent language models. Early stopping, L2-regularization / weight decay, MaxNorm. Dropout.
+ 4 Dropout in recurrent language models. Zaremba LM. Recurrent dropout. Embedding dropout. Weight dropout / dropconnect.
+ 5 Tied input/output embeddings. 
+ 6 LM datasets. Neural cache.
+
+ 7 AWD-LSTM model: regularization and optimization. Ablation analysis.
+ 8 LSTM and QRNN recurrent cells. AWD-QRNN.
+ 9 Sampled softmax. Adaptive softmax.
+
+ 10 Basic attention in neural machine translation. 
+ 11 Attention for Machine Translation with RNNs (Bahdanau model). 
+ 12 Attention blocks in Transformer encoder and decoder. Scaled dot-product attention, multihead attention, masked self-attention. Positional encoding.
+ 13 Transformer for Machine Translation. Architecture of a Transformer block, encoder, decoder. Normalization and residual connections.
+ 14 Transformer for Machine Translation. Embeddings, regularization, optimization
+
+ 15 BERT architecture, pre-training, fine-tuning.
+ 16 RoBERTa and XLM-R: architecture, pre-training, fine-tuning. Differences with BERT.
