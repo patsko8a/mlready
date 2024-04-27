@@ -1,0 +1,20 @@
+Список вопросов к экзамену (осень 2022) -- курс Арефьева Николая Викторовича
+
+ 1 Text classification. Bag of words / bag of n-grams representations. Zipf’s law. 
+ 2 Naive Bayes classifier: multinomial and bernoulli models. Laplace (alpha) smoothing.
+ 3 Linear regression. Perceptron.
+ 4 Logistic regression. Cross entropy loss. Multiclass/multilabel classification.
+ 5 Gradient descent. Full-batch versus stochastic gradient descent. Initialization and update rule for LR/FFNN.
+ 6 Feed-forward (fully connected) NN. Activation functions. NN as universal function approximator. Initialization and SGD update rule.
+ 7 Backpropagation. Derivation of gradients and weights update rule for binary/multiclass FFNN classifier with 1 hidden layer / K hidden layers.
+ 8 Training NNs with SGD: problems and solutions. Exponentially weighted average. Momentum, Adagrad, RMSProp, Adam.
+ 9 Classifier quality evaluation, surrogate loss functions. Expected versus empirical risk.
+ 10 Capacity / effective capacity of ML algorithm. Regularization. Generalization error decomposition. Bias/Variance tradeoff.
+ 11 Hyperparameter selection. Train/dev/test split. Cross Validation.
+ 12 Language models. Perplexity. Recurrent language model. 
+
+ 13 Vanishing/exploding gradient problem. LSTM. Gradient clipping.
+
+
+
+Запись лекций: https://www.youtube.com/playlist?list=PLxEQA5k0LBt6PAORtrBl9EzXeY8fguS2M
